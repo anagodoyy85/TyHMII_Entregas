@@ -35,4 +35,5 @@ Puedes explorar el mapa web interactivo exportado directamente en el siguiente e
 ## 📥 Descargas
 Los archivos .zip de los proyectos pueden descargarse mediante los siguientes atajos:
 
-[Descarga aquí el paquete del proyecto QGIS de la Actividad 1 (.zip con capas)](https://raw.githubusercontent.com/anagodoyy85/TyHMII_Entregas/main/Modulo%204/M4.zip)
+[Descarga aquí el paquete de la Actividad 1 (.zip)](https://raw.githubusercontent.com/anagodoyy85/TyHMII_Entregas/main/Modulo%204/M4A1.zip)
+
