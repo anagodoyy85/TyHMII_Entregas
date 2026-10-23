@@ -17,7 +17,7 @@ El estudio permite evaluar la distribución espacial de la infraestructura indus
 Puedes explorar el mapa web interactivo exportado directamente en el siguiente enlace:
 👉 [Ver Mapa Interactivo de Parques Industriales](https://anagodoyy85.github.io/TyHMII_Entregas/Modulo%204/mapa%20web/index.html)
 
-### 📥 Descargas
+## 📥 Descargas
 Los archivos .zip de los proyectos pueden descargarse mediante los siguientes atajos:
 
-[Descarga aquí el paquete del proyecto QGIS (.zip con capas) de la Actividad 1](https://raw.githubusercontent.com/anagodoyy85/TyHMII_Entregas/main/Modulo%204/Proyecto_QGIS_Mendoza.zip)
+[Descarga aquí el paquete del proyecto QGIS de la Actividad 1 (.zip con capas)](https://raw.githubusercontent.com/anagodoyy85/TyHMII_Entregas/main/Modulo%204/M4.zip)
