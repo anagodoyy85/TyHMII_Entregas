@@ -1,5 +1,10 @@
-# TyHMII_Entregas
+# Entregas 
+Este repositorio tiene el fin de entregar los trabajos realizados en el 6to semestre de la carrera de Ingeniería industrial, en la materia de "Técnicas y Herramientas Modernas II" por el grupo Joule Faraday
 
-
-
-Este repositorio tieene el fin de entregar los trabajos realizados en el 6to semestre de la carrera de Ingeniería industrial, en la materia de "Técnicas y Herramientas Modernas II"
+## Integrantes:  
+- Giampietri, Valentino - <>
+- Gomez, Emanuel - <>
+- Godoy, Ana Clara - <https://github.com/anagodoyy85/TyHMII_Entregas>
+- Malnis, Mattia - <>
+- Romero, María José - <https://github.com/majoromero30/TyHMII_Entregas/tree/main>
+- Segura, Lucas - <>
