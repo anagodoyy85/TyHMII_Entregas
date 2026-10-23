@@ -1,4 +1,4 @@
-# Módulo 4: Lenguaje SQL
+# Módulo 4: QGIS
 
 ## Descripción del Proyecto
 En este módulo abordamos el procesamiento de datos geográﬁcos y alfanuméricos mediante Sistemas de Información Geográﬁca (SIG) en **QGIS** e integración con consultas en **lenguaje SQL**.
