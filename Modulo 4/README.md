@@ -15,7 +15,7 @@ El estudio permite evaluar la distribución espacial de la infraestructura indus
 
 ### 🌐 Mapa Web Interactivo
 Puedes explorar el mapa web interactivo exportado directamente en el siguiente enlace:
-👉 [Ver Mapa Interactivo de Parques Industriales](https://anagodoyy85.github.io/TyHMII_Entregas/Modulo%204/mapa_web/index.html)
+👉 [Ver Mapa Interactivo de Parques Industriales](https://github.com/anagodoyy85/TyHMII_Entregas/blob/main/Modulo%204/mapa%20web/index.html)
 
 ### 📥 Descargas
 Los archivos .zip de los proyectos pueden descargarse mediante los siguientes atajos:
