@@ -18,7 +18,6 @@ Puedes explorar el mapa web interactivo exportado directamente en el siguiente e
 👉 [Ver Mapa Interactivo de Parques Industriales](https://anagodoyy85.github.io/TyHMII_Entregas/Modulo%204/mapa_web/index.html)
 
 ### 📥 Descargas
-Los archivos del proyecto y la documentación pueden descargarse mediante los siguientes atajos:
+Los archivos .zip de los proyectos pueden descargarse mediante los siguientes atajos:
 
-[Descarga aquí el informe completo en PDF](https://raw.githubusercontent.com/anagodoyy85/TyHMII_Entregas/main/Modulo%202/M2%20-%20TyHMII%20-%20Informe%20Post-JoSEII%202026%20-%20Delegaci%C3%B3n%20Mendoza%20(UNCuyo).pdf)  
-[Descarga aquí el paquete del proyecto QGIS (.zip con capas)](https://raw.githubusercontent.com/anagodoyy85/TyHMII_Entregas/main/Modulo%204/Proyecto_QGIS_Mendoza.zip)
+[Descarga aquí el paquete del proyecto QGIS (.zip con capas) de la Actividad 1](https://raw.githubusercontent.com/anagodoyy85/TyHMII_Entregas/main/Modulo%204/Proyecto_QGIS_Mendoza.zip)
