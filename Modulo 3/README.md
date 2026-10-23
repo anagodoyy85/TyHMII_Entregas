@@ -1,1 +1,3 @@
-Módulo 3: SIG Sistemas de Información Geográfico
+Módulo 3: Taller de Fotografía
+
+
