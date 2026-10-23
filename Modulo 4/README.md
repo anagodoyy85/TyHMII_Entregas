@@ -17,6 +17,21 @@ El estudio permite evaluar la distribución espacial de la infraestructura indus
 Puedes explorar el mapa web interactivo exportado directamente en el siguiente enlace:
 👉 [Ver Mapa Interactivo de Parques Industriales](https://anagodoyy85.github.io/TyHMII_Entregas/Modulo%204/mapa%20web/index.html)
 
+## Contenido de la Actividad 2
+
+### Descripción de la Actividad
+Esta segunda fase del módulo se centró en el monitoreo medioambiental y el procesamiento de imágenes satelitales (formato raster). El objetivo fue cuantificar y comparar la variación de la superficie cubierta por nieve en la zona del Valle de las Lágrimas entre dos períodos distintos (hace dos años versus la imagen actual).
+
+### Metodología y Herramientas Aplicadas
+1. **Gestión de Imágenes Raster:** Importación y superposición de imágenes satelitales `.tif` (datos de Copernicus) correspondientes a los dos períodos de estudio temporal.
+2. **Ajuste de Proyección Cartográfica:** Transformación del Sistema de Referencia de Coordenadas (SRC) del proyecto, pasando de grados cartográficos (EPSG:4326) a un sistema métrico proyectado (**EPSG:32719 - WGS 84 / UTM zone 19S**). Este ajuste es crítico para garantizar la exactitud en la planimetría y evitar distorsiones topográficas al medir el terreno.
+3. **Vectorización y Digitalización:** Creación de capas vectoriales (Shapefiles) de tipo polígono para delimitar y extraer las masas de nieve visibles en cada período, utilizando herramientas de conmutación de edición y digitalización manual.
+4. **Geoprocesamiento y Cálculo de Superficies:** Separación de las geometrías en capas independientes y aplicación de la Calculadora de Campos mediante sintaxis espacial (`$area / 10000`) en la tabla de atributos. Esto permitió procesar el área matemáticamente exacta en **hectáreas (ha)** para realizar la comparativa.
+
+### 🌐 Mapa Web Interactivo
+Puedes explorar el mapa web interactivo exportado directamente en el siguiente enlace:
+👉 [Ver Mapa Interactivo de Valle de las Lagrimas](https://anagodoyy85.github.io/TyHMII_Entregas/Modulo%204/mapa%20web/index.html)
+
 ## 📥 Descargas
 Los archivos .zip de los proyectos pueden descargarse mediante los siguientes atajos:
 
