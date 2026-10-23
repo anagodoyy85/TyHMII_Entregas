@@ -30,7 +30,7 @@ Esta segunda fase del módulo se centró en el monitoreo medioambiental y el pro
 
 ### 🌐 Mapa Web Interactivo
 Puedes explorar el mapa web interactivo exportado directamente en el siguiente enlace:
-👉 [Ver Mapa Interactivo de Valle de las Lagrimas](https://anagodoyy85.github.io/TyHMII_Entregas/Modulo%204/mapa%20web/index.html)
+👉 [Ver Mapa Interactivo de Valle de las Lagrimas](https://anagodoyy85.github.io/TyHMII_Entregas/Modulo%204/mapa%20nieve/index.html)
 
 ## 📥 Descargas
 Los archivos .zip de los proyectos pueden descargarse mediante los siguientes atajos:
