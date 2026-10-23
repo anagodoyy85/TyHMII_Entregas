@@ -37,3 +37,5 @@ Los archivos .zip de los proyectos pueden descargarse mediante los siguientes at
 
 [Descarga aquí el paquete de la Actividad 1 (.zip)](https://raw.githubusercontent.com/anagodoyy85/TyHMII_Entregas/main/Modulo%204/M4A1.zip)
 
+[Descarga aquí el paquete de la Actividad 2 (.zip)](https://raw.githubusercontent.com/anagodoyy85/TyHMII_Entregas/main/Modulo%204/M4A2.zip)
+
