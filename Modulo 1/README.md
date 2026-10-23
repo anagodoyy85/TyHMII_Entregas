@@ -13,4 +13,3 @@ Durante el proceso de investigación se contrastaron dos líneas de trabajo:
 
 ## Decisión Final: Tema A
 Tras evaluar la disponibilidad de información, la viabilidad técnica, el aporte de ingeniería y la factibilidad temporal, el equipo seleccionó el **Tema A** como opción definitiva para el Trabajo Final de Carrera. 
-
