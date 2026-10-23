@@ -14,5 +14,5 @@ El análisis de las curvas resultantes confirmó la solidez del sistema. Ante la
 ## 📥 Descargas
 Los archivos del proyecto, incluyendo el informe técnico y el modelo ejecutable de Vensim, pueden descargarse directamente mediante los siguientes atajos:
 
-[Descarga aquí el Informe Técnico en PDF](https://raw.githubusercontent.com/anagodoyy85/TyHMII_Entregas/main/Modulo%205/M5%20-%20TyHMII-2026.pdf)  
+[Descarga aquí el Informe Técnico en PDF](https://github.com/anagodoyy85/TyHMII_Entregas/blob/main/Modulo%205/M5%20-%20TyHMII-2026%20(2).pdf)  
 [Descarga aquí el Modelo de Vensim (.mdl)](https://raw.githubusercontent.com/anagodoyy85/TyHMII_Entregas/main/Modulo%205/modelo_cerveza_STEP.mdl)
