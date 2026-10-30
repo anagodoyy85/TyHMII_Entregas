@@ -3,7 +3,7 @@ Este repositorio tiene el fin de entregar los trabajos realizados en el 6to seme
 
 ## Integrantes:  
 - Giampietri, Valentino - <https://github.com/ValentinoGiampietri/TyHMII-entregas>
-- Gomez, Emanuel - <>
+- Gomez, Emanuel - <https://github.com/emanuel-gomez-rastrilla/Entregas_t-cnicas_2> 
 - Godoy, Ana Clara - <https://github.com/anagodoyy85/TyHMII_Entregas>
 - Malnis, Mattia - <>
 - Mansur, Mauricio - <>
