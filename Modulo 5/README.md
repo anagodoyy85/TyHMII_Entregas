@@ -20,5 +20,4 @@ Los archivos del proyecto, incluyendo el informe técnico y el modelo ejecutable
 
 [Descarga aquí el Modelo de Vensim (.mdl)](https://raw.githubusercontent.com/anagodoyy85/TyHMII_Entregas/main/Modulo%205/modelo_cerveza_STEP.mdl)
 
-
-<https://github.com/anagodoyy85/TyHMII_Entregas/blob/main/Modulo%205/Captura%20de%20pantalla%202026-11-06%20111809.png>
+<img width="1279" height="548" alt="Captura de pantalla 2026-11-06 111809" src="https://github.com/user-attachments/assets/fa4e385d-0b6b-441c-9cd0-2273d5bf6d89" />
